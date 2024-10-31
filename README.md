@@ -32,11 +32,11 @@ http://localhost/SE2pro/
 
 # Usage
 
- 1. Login Page (LogInPage.html): The entry point to the website. Users may need to log in for access.
-	2.	Main Interface (myInterface.html): The main page where users can navigate to various sections within Building 324.
-	3.	Employee Page (employeepage.html): Dedicated page for managing employee-related information (if relevant to the project).
-	4.	Add/Edit/Delete Pages (addpage.php, editSearch.php, Delete.php): Pages that allow adding, editing, or deleting records within the database.
-	5.	Map Page (Mappage.html): Provides a visual guide to different areas within Building 324.
+1. Login Page (LogInPage.html): The entry point to the website. Users may need to log in for access.
+2.	Main Interface (myInterface.html): The main page where users can navigate to various sections within Building 324.
+3.	Employee Page (employeepage.html): Dedicated page for managing employee-related information (if relevant to the project).
+4.	Add/Edit/Delete Pages (addpage.php, editSearch.php, Delete.php): Pages that allow adding, editing, or deleting records within the database.
+5.	Map Page (Mappage.html): Provides a visual guide to different areas within Building 324.
 
 # Screenshots
 
@@ -50,16 +50,16 @@ https://ibb.co/KDfmTbw
 
 # Technologies Used
 
- •	PHP: Backend scripting language for server-side functionality.
-	•	HTML/CSS: Frontend structure and styling.
-	•	MySQL: Database to store and manage data.
-	•	JavaScript: For interactive elements.
+•	PHP: Backend scripting language for server-side functionality.
+•	HTML/CSS: Frontend structure and styling.
+•	MySQL: Database to store and manage data.
+•	JavaScript: For interactive elements.
 
 # Contributors
 
- •	Norah Alammar
-	•	Leen Albishri
-	•	Reema Albeshri
-	•	Lama Almazrou
-	•	Wasan Alowayed
+•	Norah Alammar
+•	Leen Albishri
+•	Reema Albeshri
+•	Lama Almazrou
+•	Wasan Alowayed
 
