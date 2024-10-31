@@ -14,7 +14,9 @@ https://github.com/wasanalowayed/student-guide-CCIS-IMAMU
 2. Set Up Database:
 
 	•	Open phpMyAdmin through XAMPP or another local server tool.
+
 	•	Create a new database called se2pro.
+
 	•	Import the provided SQL file (if available) to set up the necessary tables and data.
 
 3.	Configure the Project:
@@ -22,6 +24,7 @@ https://github.com/wasanalowayed/student-guide-CCIS-IMAMU
 
 4.	Run XAMPP:
 	•	Start Apache and MySQL services in XAMPP.
+
 	•	Navigate to the project directory in your browser:
 
 http://localhost/SE2pro/
@@ -51,15 +54,22 @@ https://ibb.co/KDfmTbw
 # Technologies Used
 
 •	PHP: Backend scripting language for server-side functionality.
+
 •	HTML/CSS: Frontend structure and styling.
+
 •	MySQL: Database to store and manage data.
+
 •	JavaScript: For interactive elements.
 
 # Contributors
 
 •	Norah Alammar
+
 •	Leen Albishri
+
 •	Reema Albeshri
+
 •	Lama Almazrou
+
 •	Wasan Alowayed
 
