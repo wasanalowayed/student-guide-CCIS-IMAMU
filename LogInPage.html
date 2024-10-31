@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta name="viewport" content="with=device-width, initial-scale=1.0" />
+
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>دليل طالبات</title>
+        <link rel="stylesheet" href="styles.css">
+      
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@500&display=swap" rel="stylesheet">
+          <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+<body>
+    <section calss="header">
+      <nav>
+        
+        <a href="myInterface.html"><img src="pic1/logo1.png"></a> 
+        <div class ="nav-links" id="navLinks">
+  
+            <i class="fa fa-times" onclick="hideMenu()"></i>
+              <ul>
+                  
+                   <li><a href="myInterface.html" >الرجوع للرئيسية</a></li>
+             </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()" ></i>
+             </nav>
+
+            </section>
+       
+
+         
+       
+                <form class="login-form" >
+                    
+                    <p class="pp">تسجيل الدخول</p>
+                 
+                    <label>الرمز السري:</label>
+                    <input type="password" id="password"placeholder="ادخل الرقم السري هنا.. " required>
+                    <span class="eye" onclick="myFun()">
+                      <i id="hide1" class="fa fa-eye"></i>
+                      <i id="hide2" class="fa fa-eye-slash" ></i>
+                    </span>
+                       
+              
+                    <a href="#" id="button" type="submit" class="massage" >دخول</a>
+                    
+                    <p id="answer"></p>
+
+ 
+
+
+
+               <!---هنا جافا سكربت للقائمه بالايفون-->
+   <script>
+    var navLinks = document.getElementById("navLinks")
+    function showMenu(){
+        navLinks.style.left="0";
+      
+    }
+    function hideMenu(){
+       navLinks.style.left= "-200px"; 
+    }
+
+   </script>
+
+
+        <script>
+            function myFun(){
+               var x = document.getElementById("password")
+               var y = document.getElementById("hide1")
+               var z = document.getElementById("hide2")
+        
+               if(x.type === 'password'){
+                x.type="text";
+                y.style.display= "block";
+                z.style.display= "none";
+               }
+               else{
+                x.type="password";
+                y.style.display= "none";
+                z.style.display= "block";
+               }
+            }
+           </script>
+<script>
+  
+
+var answer = document.getElementById("answer");  
+var textbox = document.getElementById("password");
+var button = document.getElementById("button");
+
+var password = "Fhdah";
+var entryCount = 0;
+var entryLimit = 3;
+
+button.addEventListener("click", function(){
+  if (entryCount < entryLimit) {
+    if (textbox.value != password){
+      answer.innerHTML = "Wrong Password";
+      entryCount++;
+      textbox.value = "";
+    } else  if(password == "Fhdah"){ 
+      // success!
+    
+     window.location.href =("emplyeepage.html");
+      alert(" تم تسجيل دخولك بنجاح");
+
+      
+    }
+  } else {
+      answer.innerHTML = "Out of entries";
+  }
+});
+
+    
+    
+
+
+</script> 
+
+
+
+
+
+
+
+</body>
+</html>
+
