@@ -20,13 +20,14 @@ https://github.com/wasanalowayed/student-guide-CCIS-IMAMU
 	•	Import the provided SQL file (if available) to set up the necessary tables and data.
 
 3.	Configure the Project:
+
 	•	Ensure the database connection settings in connection.php match your local database configuration.
 
 4.	Run XAMPP:
+
 	•	Start Apache and MySQL services in XAMPP.
 
-	•	Navigate to the project directory in your browser:
-
+	•	Navigate to the project directory in your browser: 
 http://localhost/SE2pro/
 
 
