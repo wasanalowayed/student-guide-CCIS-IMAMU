@@ -43,8 +43,20 @@ http://localhost/SE2pro/
 4.	Add/Edit/Delete Pages (addpage.php, editSearch.php, Delete.php): Pages that allow adding, editing, or deleting records within the database.
 5.	Map Page (Mappage.html): Provides a visual guide to different areas within Building 324.
 
-# Screenshots
+# Websaite
+![photo_5850452323325822141_y](https://github.com/user-attachments/assets/2b4e330a-bbe7-4185-80a6-0d638376abc7)
 
+![photo_5850452323325822138_y](https://github.com/user-attachments/assets/41092d26-36b2-4a5b-8595-8273ca767a67)
+
+![photo_5850452323325822140_y](https://github.com/user-attachments/assets/ce309a88-de54-404b-8965-1069db2db5b0)
+
+![photo_5850452323325822139_y](https://github.com/user-attachments/assets/7a531023-00d5-4877-a09b-6c6d3bfbb999)
+
+![photo_5850452323325822135_y](https://github.com/user-attachments/assets/bf82b5a7-be44-4c28-ba64-2704a854fc6e)
+
+![photo_5850452323325822136_y](https://github.com/user-attachments/assets/e6a9f211-2ae9-4995-9c0d-ae1a129d6106)
+
+![photo_5850452323325822137_y](https://github.com/user-attachments/assets/97069d62-3a78-40a5-9d6a-f2eecd771f46)
 
 
 # Flowchart
