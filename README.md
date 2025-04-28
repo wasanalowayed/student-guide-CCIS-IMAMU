@@ -85,5 +85,5 @@ https://ibb.co/KDfmTbw
 
 •	Lama Almazrou
 
-•	Wasan Alowayed
+•	Wasan Bin Owayed
 
